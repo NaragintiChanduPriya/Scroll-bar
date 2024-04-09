@@ -30,10 +30,12 @@ This project demonstrates how to create a simple image scroller using HTML, CSS,
 
 ## Example
 on smaller screens
+-------------------------------------------------
 ![image](https://github.com/NaragintiChanduPriya/Scroll-bar/assets/103315311/ec52e833-551a-4aef-bfbd-f06e3fd335d2)
 
 ![image](https://github.com/NaragintiChanduPriya/Scroll-bar/assets/103315311/85680f2f-0b5d-48b9-b4ec-2143b0933301)
 on large screens
+----------------------------------------------------
 ![image](https://github.com/NaragintiChanduPriya/Scroll-bar/assets/103315311/1b3868d3-f7ff-4e93-b32b-99eafa6d5974)
 
 
